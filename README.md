@@ -33,7 +33,7 @@ online Medicine shopping
 * Install dependencies in `package.json`: `npm install`
 
 ##Usage
-* Run the pharmeasy.sql to create the database and make sure sql server is running.
+* Run the npharmeasy.sql to create the database and make sure sql server is running.
 * Execute `node bin/www.js` from project directory
 * Then open `localhost:3000`
 
